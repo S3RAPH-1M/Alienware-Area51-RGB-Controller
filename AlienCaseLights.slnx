@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AlienCaseLights.App/AlienCaseLights.App.csproj" />
+  <Project Path="AlienCaseLights.Core/AlienCaseLights.Core.csproj" />
+</Solution>
